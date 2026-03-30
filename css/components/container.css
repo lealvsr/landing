@@ -1,0 +1,8 @@
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.py-5 {
+  padding: 50px 0;
+}

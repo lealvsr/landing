@@ -1,0 +1,13 @@
+.banner {
+  /* Le ../ permet de remonter d'un dossier pour trouver le dossier image */
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../image/image.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 150px 0;
+  text-align: center;
+}
+.banner h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
